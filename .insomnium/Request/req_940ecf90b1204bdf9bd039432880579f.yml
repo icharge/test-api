@@ -1,0 +1,27 @@
+_id: req_940ecf90b1204bdf9bd039432880579f
+type: Request
+parentId: wrk_f5d4a35dc1564a6fbdec93b0e8539f1b
+modified: 1713878039522
+created: 1713877875109
+url: https://httpbin.org/get
+name: Test
+description: ""
+method: GET
+body: {}
+parameters: []
+headers:
+  - name: User-Agent
+    value: insomnium/0.2.3-a
+    id: pair_90da78ccda0e4fa5832c7c1885b091bc
+authentication:
+  type: oauth2
+  grantType: authorization_code
+metaSortKey: -1713877875109
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
+segmentParams: []
